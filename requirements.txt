@@ -1,0 +1,12 @@
+openai
+whisper
+pyttsx3
+pyaudio
+selenium
+playwright
+pyautogui
+pycaw
+langdetect
+elevenlabs
+speechrecognition
+streamlit
